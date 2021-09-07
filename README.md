@@ -1,6 +1,6 @@
 ### Hi there 👋! I am Piyush Bagad!
 
-- 🔭 I’m currently an MS in AI student at University of Amsterdam
+- 🔭 I’m currently an MS in AI student at [University of Amsterdam](https://www.uva.nl/en)
 - 🌱 I’m interested in a variety of areas centered around video understanding and representation learning.
 - 😄 Pronouns: He/His.
 - 📫 More details - [bpiyush.github.io](https://bpiyush.github.io). You can always reach me on my [email](mailto:piyushnbagad11@gmail.com)
