@@ -1,8 +1,8 @@
 ### Hi there 👋! I am Piyush Bagad!
 
-- 🔭 I’m currently an MS in AI student at [University of Amsterdam](https://www.uva.nl/en)
-- 🌱 I’m interested in a variety of areas centered around video understanding and representation learning.
-- 😄 Pronouns: He/His.
+- 🔭 I am currently a first-year DPhil student at the University of Oxford. I am advised by Prof. Andrew Zisserman of the VGG lab.
+- 🔭 Previously, I was a MSc in AI student at [University of Amsterdam](https://www.uva.nl/en)
+- 🌱 I’m interested in a variety of areas centred around video understanding.
 - 📫 More details - [bpiyush.github.io](https://bpiyush.github.io). You can always reach me on my [email](mailto:piyushnbagad11@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=bpiyush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
